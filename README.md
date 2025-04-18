@@ -6,14 +6,14 @@ Provision [valkey](https://valkey.io) (redis) clusters
 
 This operator creates valkey clusters and makes them available to other services on the k8s cluster
 
-See the following link for more information on avialable Custom Resource Options: [https://doc.crds.dev/github.com/hyperspike/valkey-operator](https://doc.crds.dev/github.com/hyperspike/valkey-operator)
+See the following link for more information on available Custom Resource Options: [https://doc.crds.dev/github.com/hyperspike/valkey-operator](https://doc.crds.dev/github.com/hyperspike/valkey-operator)
 
 ## Getting Started
 
 ### Prerequisites
 - go version v1.22.0+
 - docker version 17.03+.
-- kubectl version v1.11.3+.
+- kubectl version v1.11.3+.a
 - Access to a Kubernetes v1.11.3+ cluster.
 
 ### Quick Start
